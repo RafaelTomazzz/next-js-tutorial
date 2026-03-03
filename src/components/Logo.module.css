@@ -1,0 +1,15 @@
+.logo{
+    display: inline-flex;
+    align-items: center;
+}
+
+.logo__title{
+    font-size: 2rem;
+    font-weight: 400;
+    color: white;
+}
+
+.logo__title span{
+    font-weight: 600;
+    color: blue;
+}
