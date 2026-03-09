@@ -1,0 +1,7 @@
+.footer{
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 0.75rem;
+    padding-top: 0.75rem;
+}
